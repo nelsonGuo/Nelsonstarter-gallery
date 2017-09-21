@@ -7,7 +7,8 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 Team members: JN, NG, DC
 Changelog is useful
 
-## *Version x.x*
+## *Version 1.0*
+static to trivial website conversion
 
 Release Date: Jul 26, 2027
 
